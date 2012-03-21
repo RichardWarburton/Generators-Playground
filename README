@@ -1,0 +1,1 @@
+Provides some comparison of writing a generators using the existing Iterable interface against using some trivial libraries.
